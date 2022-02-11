@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="coming up soon!" />
+        <Header title="ridicool nfts!" />
         <p className="description">
-         :) 
+         coming up soon 
         </p>
       </main>
 
